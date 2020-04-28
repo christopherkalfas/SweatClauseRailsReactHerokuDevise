@@ -16,6 +16,7 @@ gem 'puma', '~> 4.1'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'devise'
 gem 'activeadmin'
+gem 'webpacker'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
